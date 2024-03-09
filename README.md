@@ -5,4 +5,5 @@ This is a project that I undertook to learn more about the sheet metal design sp
 
 I have yet to create a functioning prototype of this project, but do plan to do so in the future with a service like Send Cut Send. Although, the design does need some updating as some fasteners and joints are not as robust as I would like them to be. 
 
-![Version_1_v51_2024-Mar-09_04-23-45PM-000_CustomizedView1375280542](https://github.com/potatoworld/VestaNAS/assets/37276609/ad46be26-ff2d-4007-9765-8a9c9ff929db)
+![Version_1_v51_2024-Mar-09_04-23-45PM-000_CustomizedView1375280542](https://github.com/potatoworld/VestaNAS/assets/37276609/240f2f5e-5b2b-4841-9977-9862af83c811)
+![cb40ccbd-efe9-42f0-8e33-f2a6508a483b](https://github.com/potatoworld/VestaNAS/assets/37276609/6fa1f013-63de-41af-9b53-3ea104dae6b1)
